@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/news-website/static/js/main.f513605d.js",
+    "index.html": "/news-website/index.html",
+    "main.f513605d.js.map": "/news-website/static/js/main.f513605d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f513605d.js"
+  ]
+}
